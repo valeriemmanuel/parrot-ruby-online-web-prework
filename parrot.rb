@@ -1,3 +1,3 @@
-def parrot(pharse=squawk!)
-  puts "squawk!"
+def parrot
+  "squawk!"
 end
