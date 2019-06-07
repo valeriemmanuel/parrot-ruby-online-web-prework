@@ -1,4 +1,4 @@
 def parrot( phase = "Squawk!")
-   puts #{phrase}
+   puts #{Pretty Bird}
    "Pretty Bird!"
 end
