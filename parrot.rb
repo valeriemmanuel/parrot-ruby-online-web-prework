@@ -1,4 +1,3 @@
 def parrot ( phase = "Squawk!")
-  puts "Squwak!"
-  "Squwak!"
+  "#{phrase}"
 end
