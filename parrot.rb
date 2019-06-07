@@ -1,4 +1,4 @@
-def parrot( phase = "Squawk!")
+def parrot( phase = "Squwak!")
    puts "Pretty Bird!"
-   "Pretty Bird!"
+   "Squwak!"
 end
