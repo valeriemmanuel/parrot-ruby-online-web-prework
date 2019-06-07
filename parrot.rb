@@ -1,3 +1,3 @@
-def parrot( phase = "Squwak!")
+def parrot(phrase = "Squwak!")
    puts #{phrase}
 end
