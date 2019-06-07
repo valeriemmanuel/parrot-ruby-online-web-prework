@@ -1,4 +1,4 @@
-def parrot ( phase = "Squawk!")
-   puts "#{phrase}"
+def parrot( phase = "Squawk!")
+   puts #{phrase}
    "Squwak!"
 end
