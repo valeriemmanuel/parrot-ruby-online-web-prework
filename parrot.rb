@@ -1,4 +1,4 @@
 def parrot(phrase = "Squwak!")
     puts "Squwak!"
-     #{"Pretty Bird"}
+     "#{"Pretty Bird"}"
 end
